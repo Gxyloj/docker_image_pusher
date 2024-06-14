@@ -1,6 +1,16 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+jxxghp/moviepilot
+chishin/nginx-proxy-manager-zh
+networkstatic/iperf3
+lliuhuan/nginx-http-flv-module
+redis
+nyanmisaka/jellyfin
+tiangolo/nginx-rtmp
+linuxserver/qbittorrent
+linuxserver/jackett
+hslr/sun-panel
+teddysun/xray
+allanpk716/chinesesubfinder
+lovechen/embyserver
+ghcr.io/xpenology-community/docker-intel-gpu-tools
+19970688/nastools-bt
