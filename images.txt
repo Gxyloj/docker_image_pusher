@@ -14,3 +14,4 @@ allanpk716/chinesesubfinder
 lovechen/embyserver
 ghcr.io/xpenology-community/docker-intel-gpu-tools
 19970688/nastools-bt
+strahe/dnspod-ddns
