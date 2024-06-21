@@ -16,3 +16,4 @@ ghcr.io/xpenology-community/docker-intel-gpu-tools
 19970688/nastools-bt
 strahe/dnspod-ddns
 jeessy/ddns-go
+koishijs/koishi
