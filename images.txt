@@ -17,3 +17,4 @@ ghcr.io/xpenology-community/docker-intel-gpu-tools
 strahe/dnspod-ddns
 jeessy/ddns-go
 koishijs/koishi
+cikeyqi/unidbg-fetch-qsign-docker
