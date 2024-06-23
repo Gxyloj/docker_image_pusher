@@ -18,3 +18,5 @@ strahe/dnspod-ddns
 jeessy/ddns-go
 koishijs/koishi
 cikeyqi/unidbg-fetch-qsign-docker
+library/debian
+node:lts-slim
