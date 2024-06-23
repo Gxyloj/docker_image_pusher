@@ -20,3 +20,4 @@ koishijs/koishi
 cikeyqi/unidbg-fetch-qsign-docker
 library/debian
 node:lts-slim
+ubuntu
