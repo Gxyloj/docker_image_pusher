@@ -22,3 +22,4 @@ library/debian
 node:lts-slim
 ubuntu
 chishin/nginx-proxy-manager-zh
+rabbitmg
